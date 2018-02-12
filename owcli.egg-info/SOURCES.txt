@@ -1,0 +1,7 @@
+owcli.py
+owcli.egg-info/PKG-INFO
+owcli.egg-info/SOURCES.txt
+owcli.egg-info/dependency_links.txt
+owcli.egg-info/entry_points.txt
+owcli.egg-info/requires.txt
+owcli.egg-info/top_level.txt

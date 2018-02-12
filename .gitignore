@@ -1,0 +1,6 @@
+bower_components
+__pycache__
+env
+venv
+bower.json
+**/**/*.pyc
