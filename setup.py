@@ -6,6 +6,7 @@ setup(
     py_modules=['owcli'],
     install_requires=[
         'Click',
+        'gitpython',
     ],
     entry_points='''
         [console_scripts]
